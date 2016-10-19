@@ -1,6 +1,6 @@
 //Masood Mawlwavizada
 //Haaris Mirza
-
+//kill yourself
 
 //The purpose of the program is to complete a binary number
 //binary number is made up of 0's and 1's but the input strings you will receive can also contain 'x''s.
